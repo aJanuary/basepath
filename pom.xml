@@ -54,4 +54,6 @@
       </plugin>
     </plugins>
   </build>
+  <url>https://github.com/aJanuary/basepath</url>
+  <description>A library for combining base paths with relative paths while checking that the relative path never escapes the base path.</description>
 </project>
